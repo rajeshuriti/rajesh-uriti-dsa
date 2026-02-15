@@ -6,7 +6,7 @@ Sliding Window pattern
 * *The perfect starter.* Find a fixed-size window of length `k` with the highest average.
 
 
-* **[Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/)**
+* **[Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/)**  -ReWatch
 * A fun variation where the window can look "forward" or "backward" depending on a key.
 
 
